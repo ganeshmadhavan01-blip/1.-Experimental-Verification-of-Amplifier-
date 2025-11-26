@@ -82,16 +82,14 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
+<img width="551" height="474" alt="image" src="https://github.com/user-attachments/assets/16e72428-3923-4b39-9fd1-7e8c6fe0d5be" />
+		
  
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="802" height="525" alt="image" src="https://github.com/user-attachments/assets/f2d7c422-b113-4634-9876-aef582abfb57" />
 
 
 ---
@@ -130,14 +128,12 @@ PROCEDURE:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="369" height="354" alt="image" src="https://github.com/user-attachments/assets/d655e304-fc64-4b5f-af23-55c432a49a32" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="593" height="764" alt="image" src="https://github.com/user-attachments/assets/f15ec45f-28aa-4450-83a5-c914030f6e22" />
 
 
 ---
@@ -186,14 +182,12 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="287" height="270" alt="image" src="https://github.com/user-attachments/assets/790e80b7-e494-4800-b5fe-07cb2c5b9480" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="581" height="449" alt="image" src="https://github.com/user-attachments/assets/218945da-eeb1-4432-8c68-e71fb7d0f4b8" />
 
 
 ---
@@ -225,14 +219,12 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+<img width="490" height="272" alt="image" src="https://github.com/user-attachments/assets/03080197-5d1c-489b-a757-004467c0f1e3" />
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="603" height="412" alt="image" src="https://github.com/user-attachments/assets/d494b653-a038-44e4-a332-f5cf69a894fa" />
 
 
 ---
